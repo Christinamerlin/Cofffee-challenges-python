@@ -10,3 +10,10 @@ def main():
     solution(a, n)
 
 main()
+'''
+Input:
+5
+2 2 4 6 6
+Output:
+4
+'''
