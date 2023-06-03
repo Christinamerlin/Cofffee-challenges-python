@@ -1,3 +1,4 @@
+#TO find the kth smallest and largest number
 def solution(arr,n,k):
     arr.sort()
     print(arr[k-1])
@@ -13,3 +14,13 @@ def main():
 
 main()
 
+''' 
+Input:
+5
+11 5 12 6 13
+2
+
+Output:
+6 
+12
+''' 
