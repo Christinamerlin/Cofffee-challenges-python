@@ -18,3 +18,13 @@ def main():
     solution(a, n, k, b)
     
 main()
+
+''' 
+Input:
+4 1
+3 10 2 9
+12
+
+Output:
+5
+'''
