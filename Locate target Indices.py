@@ -15,9 +15,9 @@ def main():
     for i in range(n):
         a[i] = int(a[i])
     
-    solution(a, n, k)
-    
+    solution(a, n, k)    
 main()
+
 ''' 
 Input:
 5 2
