@@ -4,7 +4,7 @@ Input:
 Output:
 2
 Explanation:
-The binary representation of 18 is 010010,the first set bit from the right side is at position 2.
+The binary representation of 18 is 010010,the first set bit from the right side is at position 2. 32 bit integer  is considered for conversion.
 '''
 
 def solution(n):
