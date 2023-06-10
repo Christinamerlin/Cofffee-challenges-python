@@ -1,3 +1,10 @@
+'''
+Input:
+18
+Output:
+2
+'''
+
 def solution(n):
     b=format(n,'032b')
     rev=b[::-1]
