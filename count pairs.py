@@ -1,3 +1,10 @@
+'''
+Input:
+5 2
+1 5 3 4 2
+Output:
+3
+'''
 def solution(h, n, k):
    cnt=0
    d={}
