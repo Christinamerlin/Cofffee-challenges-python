@@ -1,3 +1,12 @@
+'''
+Input:
+leetcode
+Output: 
+0
+The position of the first non repeating character is 0
+'''
+
+
 def solution(value):
     d={}
     for i in value:
