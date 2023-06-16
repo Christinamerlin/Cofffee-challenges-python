@@ -1,4 +1,11 @@
+'''
+Input:
+5
+1 10 3 9 4
 
+Output:
+1
+'''
 def solution(a, n):
     max=0
     for i,val in enumerate(a):
