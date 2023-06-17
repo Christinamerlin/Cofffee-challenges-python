@@ -1,3 +1,17 @@
+'''
+Input 1:
+1
+Output 1: 
+0
+Input 2:
+2
+Input 2:
+1
+Input 3:
+5
+Input 3:
+3
+'''
 def solution(n):
     if n==1:
         return 0
